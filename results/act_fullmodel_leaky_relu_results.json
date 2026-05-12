@@ -1,0 +1,10 @@
+{
+  "experiment_name": "act_fullmodel_leaky_relu",
+  "test_accuracy": 0.942857,
+  "test_auc": 0.978987,
+  "test_f1": 0.966292,
+  "total_params": 12438234,
+  "best_val_accuracy": 0.958571,
+  "epochs_trained": 15,
+  "training_time_minutes": 175.03
+}

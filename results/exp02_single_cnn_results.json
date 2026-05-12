@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp02_single_cnn",
+  "test_accuracy": 0.832381,
+  "test_auc": 0.657911,
+  "test_f1": 0.906133,
+  "total_params": 422530,
+  "best_val_accuracy": 0.820476,
+  "epochs_trained": 7,
+  "training_time_minutes": 8.39
+}

@@ -1,0 +1,10 @@
+{
+  "experiment_name": "act_relu",
+  "test_accuracy": 0.835714,
+  "test_auc": 0.752994,
+  "test_f1": 0.905454,
+  "total_params": 1240482,
+  "best_val_accuracy": 0.817143,
+  "epochs_trained": 14,
+  "training_time_minutes": 76.51
+}

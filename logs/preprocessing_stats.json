@@ -1,0 +1,26 @@
+{
+  "total_processed": 14000,
+  "stream1_fallback": 10,
+  "stream2_fallback": 10,
+  "stream2_fallback_files": [
+    "416_342_frame_003.jpg",
+    "416_342_frame_004.jpg",
+    "370_483_frame_007.jpg",
+    "02_07__outside_talking_pan_laughing__O4SXNLRL_frame_000.jpg",
+    "03_09__kitchen_pan__8DTEGQ54_frame_000.jpg",
+    "09_03__kitchen_pan__8DTEGQ54_frame_000.jpg",
+    "14_20__kitchen_pan__R7SPX6OK_frame_000.jpg",
+    "19_24__kitchen_pan__QD5K7BP2_frame_000.jpg",
+    "20_26__outside_talking_pan_laughing__KGFLR0PH_frame_000.jpg",
+    "24_19__kitchen_pan__QD5K7BP2_frame_000.jpg"
+  ],
+  "per_class": {
+    "original": 2000,
+    "Deepfakes": 2000,
+    "Face2Face": 2000,
+    "FaceShifter": 2000,
+    "FaceSwap": 2000,
+    "NeuralTextures": 2000,
+    "DeepFakeDetection": 2000
+  }
+}

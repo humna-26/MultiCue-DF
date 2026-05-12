@@ -1,0 +1,10 @@
+{
+  "experiment_name": "bn_without_bn",
+  "test_accuracy": 0.85619,
+  "test_auc": 0.641981,
+  "test_f1": 0.922044,
+  "total_params": 1238562,
+  "best_val_accuracy": 0.852381,
+  "epochs_trained": 7,
+  "training_time_minutes": 46.38
+}

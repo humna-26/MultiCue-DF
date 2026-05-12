@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp01_mlp_baseline",
+  "test_accuracy": 0.668095,
+  "test_auc": 0.718419,
+  "test_f1": 0.775956,
+  "total_params": 77204226,
+  "best_val_accuracy": 0.651905,
+  "epochs_trained": 10,
+  "training_time_minutes": 23.76
+}

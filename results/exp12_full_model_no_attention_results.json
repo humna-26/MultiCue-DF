@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp12_full_model_no_attention",
+  "test_accuracy": 0.964286,
+  "test_auc": 0.992057,
+  "test_f1": 0.978962,
+  "total_params": 12336930,
+  "best_val_accuracy": 0.966667,
+  "epochs_trained": 20,
+  "training_time_minutes": 68.45
+}

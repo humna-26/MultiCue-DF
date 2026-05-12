@@ -1,0 +1,10 @@
+{
+  "experiment_name": "bn_fullmodel_without_bn",
+  "test_accuracy": 0.949524,
+  "test_auc": 0.980537,
+  "test_f1": 0.970539,
+  "total_params": 12436314,
+  "best_val_accuracy": 0.955238,
+  "epochs_trained": 15,
+  "training_time_minutes": 121.47
+}

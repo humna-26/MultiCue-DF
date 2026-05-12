@@ -1,0 +1,32 @@
+{
+  "relu": {
+    "experiment_name": "act_fullmodel_relu",
+    "test_accuracy": 0.945714,
+    "test_auc": 0.977315,
+    "test_f1": 0.968227,
+    "total_params": 12438234,
+    "best_val_accuracy": 0.949048,
+    "epochs_trained": 15,
+    "training_time_minutes": 186.99
+  },
+  "leaky_relu": {
+    "experiment_name": "act_fullmodel_leaky_relu",
+    "test_accuracy": 0.942857,
+    "test_auc": 0.978987,
+    "test_f1": 0.966292,
+    "total_params": 12438234,
+    "best_val_accuracy": 0.958571,
+    "epochs_trained": 15,
+    "training_time_minutes": 175.03
+  },
+  "elu": {
+    "experiment_name": "act_fullmodel_elu",
+    "test_accuracy": 0.956667,
+    "test_auc": 0.98882,
+    "test_f1": 0.974503,
+    "total_params": 12438234,
+    "best_val_accuracy": 0.963333,
+    "epochs_trained": 15,
+    "training_time_minutes": 162.31
+  }
+}

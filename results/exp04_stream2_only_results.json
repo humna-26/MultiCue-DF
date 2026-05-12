@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp04_stream2_only",
+  "test_accuracy": 0.857143,
+  "test_auc": 0.65014,
+  "test_f1": 0.923077,
+  "total_params": 1306786,
+  "best_val_accuracy": 0.856667,
+  "epochs_trained": 11,
+  "training_time_minutes": 24.27
+}

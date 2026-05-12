@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp10_full_model_sgd",
+  "test_accuracy": 0.927619,
+  "test_auc": 0.956811,
+  "test_f1": 0.957871,
+  "total_params": 12438234,
+  "best_val_accuracy": 0.929524,
+  "epochs_trained": 20,
+  "training_time_minutes": 66.61
+}

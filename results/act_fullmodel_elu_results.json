@@ -1,0 +1,10 @@
+{
+  "experiment_name": "act_fullmodel_elu",
+  "test_accuracy": 0.956667,
+  "test_auc": 0.98882,
+  "test_f1": 0.974503,
+  "total_params": 12438234,
+  "best_val_accuracy": 0.963333,
+  "epochs_trained": 15,
+  "training_time_minutes": 162.31
+}

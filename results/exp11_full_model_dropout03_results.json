@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp11_full_model_dropout03",
+  "test_accuracy": 0.965714,
+  "test_auc": 0.99043,
+  "test_f1": 0.979922,
+  "total_params": 12438234,
+  "best_val_accuracy": 0.968571,
+  "epochs_trained": 20,
+  "training_time_minutes": 66.49
+}

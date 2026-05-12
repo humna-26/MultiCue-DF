@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp09_full_model_adam",
+  "test_accuracy": 0.954762,
+  "test_auc": 0.983769,
+  "test_f1": 0.973604,
+  "total_params": 12438234,
+  "best_val_accuracy": 0.963333,
+  "epochs_trained": 20,
+  "training_time_minutes": 68.08
+}

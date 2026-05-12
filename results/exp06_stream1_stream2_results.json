@@ -1,0 +1,10 @@
+{
+  "experiment_name": "exp06_stream1_stream2",
+  "test_accuracy": 0.961429,
+  "test_auc": 0.989696,
+  "test_f1": 0.977569,
+  "total_params": 12193954,
+  "best_val_accuracy": 0.96381,
+  "epochs_trained": 20,
+  "training_time_minutes": 140.43
+}

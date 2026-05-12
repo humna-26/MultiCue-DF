@@ -1,0 +1,37 @@
+# Dataset (too large for GitHub)
+FaceForensics++_C23/
+frames/
+processed/
+
+# Model checkpoints (too large)
+checkpoints/
+*.pth
+*.pt
+
+# Loose log files in root
+act_run
+bn_run
+act_run.log
+bn_run.log
+
+# Claude internal
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
